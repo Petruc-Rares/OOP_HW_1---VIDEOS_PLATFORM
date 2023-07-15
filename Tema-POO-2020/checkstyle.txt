@@ -1,0 +1,4 @@
+Starting audit...
+[ERROR] D:\HOMEWORK_1_OOP\Tema-POO-2020\.\src\newfileio\MovieData.java:108:36: Parameter noRatings should be final. [FinalParameters]
+Audit done.
+Checkstyle ends with 1 errors.
